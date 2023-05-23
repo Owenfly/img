@@ -1,2 +1,2 @@
-# zeltik_pic
+# img
 用来进行图床管理
